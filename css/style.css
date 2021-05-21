@@ -1,0 +1,133 @@
+.contg {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.cons {
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: rgb(160, 154, 154);
+    width: 400px;
+    height: 700px;
+    border-bottom-right-radius: 20%;
+    display: flex;
+    justify-content: left;
+}
+
+.pant {
+    justify-content: center;
+    align-content: center;
+    background-color: grey;
+    margin-left: 60px;
+    margin-top: 60px;
+    width: 280px;
+    height: 250px;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.panta {
+    justify-content: center;
+    align-content: center;
+    margin-left: 45px;
+    margin-top: 30px;
+    width: 210px;
+    height: 200px;
+}
+
+.cont {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 350px;
+    height: 230px;
+    border-color: black;
+    margin-left: 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100px;
+    height: 90px;
+}
+
+.grid-item {
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+}
+
+.grid-item-a {
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    background-color: black;
+}
+
+.selbot {
+    display: flex;
+    justify-content: right;
+    height: 30px;
+    margin-right: 160px;
+}
+
+.startbot {
+    rotate: 120deg;
+    color: brown;
+}
+
+.selectbot {
+    rotate: 120deg;
+    color: brown;
+}
+
+.botop {
+    width: 270px;
+    height: 200px;
+    justify-items: left;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.mid {
+    width: 80px;
+    height: 120px;
+    justify-content: center;
+}
+
+.sub {
+    display: flex;
+    float: right;
+    width: 400px;
+}
+.bot{
+
+margin-top: 280px;
+
+}
+.a{
+    border-radius: 100%;
+    border-end-end-radius: 100%;
+    border-top-left-radius: 100%;
+    border-start-start-radius: 100%;
+    width: 40px;
+    height: 50px;
+    background-color: brown;
+    border-color: brown;
+}
+.b{
+    border-radius: 100%;
+    border-end-end-radius: 100%;
+    border-top-left-radius: 100%;
+    border-start-start-radius: 100%;
+    width: 40px;
+    height: 50px;
+    background-color: brown;
+    border-color: brown;
+}
